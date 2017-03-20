@@ -6,7 +6,7 @@ This site is the working splash page for burlington guitar co. We specialize in 
 
 -Tim and Alex
 
-![TimAlex](/Users/phillipburnham/BurlingtonGuitarCo/Pictures/TimAlex.png)
+![](Pictures/TimAlex.png)
 
 ## Resources
 
