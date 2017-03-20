@@ -10,9 +10,9 @@ This site is the working splash page for burlington guitar co. We specialize in 
 
 ## Resources
 
-* [Spec Sheet for Tim's Guitar (prototype T)](Assignment2_Bio381.html) 
-* [Spec Sheet for Tim's Guitar (prototype A)](BurnhamFlowChart.html)  
-* [Price Sheet for parts (proto T & A)](pictures.html)
+* [Spec Sheet (prototype's T and A)](specs.html) 
+* [Price Sheet for Tim's Guitar (prototype T)](BurnhamFlowChart.html)  
+* [Price Sheet for Alex's Guitar (prototype A)](pictures.html)
 * [Inspirational Pictures](Pictures/pictures.html)
 * [Links to Parts and Resources](Pictures/pictures.html)
 
