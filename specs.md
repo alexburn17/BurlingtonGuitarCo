@@ -4,6 +4,8 @@
 
 ## Proto A (Alex's Guitar)
 
+![](Pictures/blue.png)
+
 * Les Paul body shape
 * Figured maple neck
   * scarf joint (headstock)
@@ -27,8 +29,9 @@
 * masked maple binding
 
 
-
 ## Proto T (Timmy's Guitar)
+
+![](Pictures/red.png)
 
 * Les Paul body shape
 * Figured maple neck
