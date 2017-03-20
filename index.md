@@ -6,7 +6,7 @@ This site is the working splash page for burlington guitar co. We specialize in 
 
 -Tim and Alex
 
-![TimAlex](/Users/phillipburnham/BurlingtonGuitarCo/Pictures/TimAlex.jpg)
+![TimAlex](/Users/phillipburnham/BurlingtonGuitarCo/Pictures/TimAlex.png)
 
 ## Resources
 
@@ -14,4 +14,5 @@ This site is the working splash page for burlington guitar co. We specialize in 
 * [Spec Sheet for Tim's Guitar (prototype A)](BurnhamFlowChart.html)  
 * [Price Sheet for parts (proto T & A)](pictures.html)
 * [Inspirational Pictures](Pictures/pictures.html)
+* [Links to Parts and Resources](Pictures/pictures.html)
 
