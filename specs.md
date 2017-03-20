@@ -57,5 +57,5 @@
 
 
 
-*see partsA and partsT for cost sheets for each prototype*
+*see [partsT](https://docs.google.com/spreadsheets/d/1fSrajplSy6oDD4zCR4VKd3Lo7ZGdLUrd5zBzoPi8kDE/edit#gid=1355856357) and [partsA](https://docs.google.com/spreadsheets/d/1T4hpGZQHsxlhLzsD4R4DBPOLloXD6w-qBgPYmxATu78/edit#gid=886027588) for cost sheets for each prototype*
 
